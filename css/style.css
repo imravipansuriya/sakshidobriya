@@ -3819,3 +3819,8 @@ h6 {
 .about-list-items li{
   font-size: 14px;
 }
+
+
+.banner_inner .home_left_img img{
+  width: 100%;
+}
